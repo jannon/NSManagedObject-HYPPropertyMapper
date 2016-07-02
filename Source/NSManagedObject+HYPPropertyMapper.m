@@ -1,6 +1,6 @@
 #import "NSManagedObject+HYPPropertyMapper.h"
 
-#import "NSString+HYPNetworking.h"
+#import <NSString_HYPNetworking/NSString_HYPNetworking.h>
 #import "NSDate+HYPPropertyMapper.h"
 #import "NSManagedObject+HYPPropertyMapperHelpers.h"
 

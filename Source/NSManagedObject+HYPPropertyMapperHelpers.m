@@ -1,9 +1,9 @@
 #import "NSManagedObject+HYPPropertyMapperHelpers.h"
 
 #import "NSManagedObject+HYPPropertyMapper.h"
-#import "NSString+HYPNetworking.h"
+#import <NSString_HYPNetworking/NSString+HYPNetworking.h>
 #import "NSDate+HYPPropertyMapper.h"
-#import "NSEntityDescription+SYNCPrimaryKey.h"
+#import <NSEntityDescription_SYNCPrimaryKey/NSEntityDescription+SYNCPrimaryKey.h>
 
 @implementation NSManagedObject (HYPPropertyMapperHelpers)
 

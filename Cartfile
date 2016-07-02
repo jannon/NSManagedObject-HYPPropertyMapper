@@ -1,0 +1,5 @@
+# TODO: revert to "hyperoslo/NSEntityDescription-SYNCPrimaryKey" when PR merged or carthage compatibility added to base repo
+github "jannon/NSEntityDescription-SYNCPrimaryKey" "add-carthage-compatibility"
+
+# TODO: revert to "hyperoslo/NSString-HYPNetworking" when PR merged or carthage compatibility added to base repo
+github "jannon/NSString-HYPNetworking" "add-carthage-compatibility"
